@@ -8,7 +8,7 @@ npm install
 </pre>
 
 ## Demo
-This app is live at . You can use the following credentials:
+This app is live at https://secret-reaches-68085.herokuapp.com/. You can use the following credentials:
 
 <pre>
 Username: user1@gmail.com
@@ -17,6 +17,8 @@ Password: password123!
 
 ## Description
 This is a PERN application developed with CRUD functionality. Users are able to sign-up and log in. If they are not logged in they can view blogs but once logged in they are able to view blogs, create blogs, like blogs, view users, and make comments. The frontend is done with React Bootstrap as well as Toastify for the toasts.
+
+The frontend of this application can be found at: https://github.com/S-Makrod/BlogAppFrontend. Note that this frontend was originally created for the MERN version of this app so the deployed build of this app is slightly different. However 99% of the contents are the same.
 
 ## Pictures
 ![image](https://user-images.githubusercontent.com/53048085/153117934-f638ad03-32fb-4cc5-987e-bab93bef8437.png)
